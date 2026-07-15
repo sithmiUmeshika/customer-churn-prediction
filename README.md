@@ -1,3 +1,4 @@
+![Customer Churn Prediction Banner](images/customer_churn_banner.png)
 # Customer Churn Prediction Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
