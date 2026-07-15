@@ -141,3 +141,19 @@ http://localhost:8501
 ![High Risk Prediction](images/streamlit_high_risk.png)
 
 ---
+## 🧠 Machine Learning Workflow
+
+```mermaid
+flowchart LR
+    A[Raw Telco Dataset] --> B[Data Cleaning]
+    B --> C[Exploratory Data Analysis]
+    C --> D[Feature Engineering]
+    D --> E[Train-Test Split]
+    E --> F[Logistic Regression]
+    E --> G[Random Forest]
+    F --> H[Model Evaluation]
+    G --> H
+    H --> I[Best Model Selection]
+    I --> J[Churn Probability]
+    J --> K[Risk Classification]
+    K --> L[Streamlit Web Application]
