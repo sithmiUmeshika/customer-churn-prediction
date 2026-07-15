@@ -101,3 +101,26 @@ Feature Importance
 Customer Risk Classification
         ↓
 Business Recommendations
+## 🌐 Streamlit Web Application
+
+A Streamlit web application was developed to provide real-time customer churn predictions.
+
+### Features
+
+- Predict customer churn probability
+- Display customer risk level
+- Show prediction confidence
+- Business recommendations based on prediction
+- Interactive and user-friendly interface
+
+### Run the Application
+
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser at:
+
+```
+http://localhost:8501
+```
