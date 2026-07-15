@@ -126,3 +126,18 @@ The application will open in your browser at:
 ```
 http://localhost:8501
 ```
+## 📸 Application Screenshots
+
+### Customer Input Form
+
+![Streamlit Input Form](images/streamlit_input_form.png)
+
+### Low-Risk Prediction
+
+![Low Risk Prediction](images/streamlit_low_risk.png)
+
+### High-Risk Prediction
+
+![High Risk Prediction](images/streamlit_high_risk.png)
+
+---
