@@ -1,4 +1,5 @@
 ![Customer Churn Prediction Banner](images/customer_churn_banner.png)
+[![Open Live App](https://img.shields.io/badge/Live%20Demo-Open%20Streamlit%20App-ff4b4b?style=for-the-badge&logo=streamlit)](https://sithmi-customer-churn.streamlit.app)
 # Customer Churn Prediction Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
