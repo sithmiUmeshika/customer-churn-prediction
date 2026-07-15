@@ -105,6 +105,7 @@ Business Recommendations
 ## 🌐 Streamlit Web Application
 
 A Streamlit web application was developed to provide real-time customer churn predictions.
+The application is deployed on Streamlit Community Cloud and is available through the live demo link above.
 
 ### Features
 
